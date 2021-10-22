@@ -2,8 +2,8 @@
 
  https://nagarajvictor.github.io/   food world website link
  
- intro: https://nagarajvictor.github.io/profile/
+ Assignment1-Profile:  https://nagarajvictor.github.io/profilecard/
 
-restaurant: https://nagarajvictor.github.io/Victorsson/
+Asssignment3-restaurant: https://nagarajvictor.github.io/Victorsson/
 
 
