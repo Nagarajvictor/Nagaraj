@@ -6,5 +6,5 @@
 Assignment2-portfolio: https://nagarajvictor.github.io/portfolio/
 Asssignment3-restaurant: https://nagarajvictor.github.io/Victorsson/
 Assignment4-login: https://nagarajvictor.github.io/login-reg/
-
+Assignment5-survey: https://nagarajvictor.github.io/survey/
 
